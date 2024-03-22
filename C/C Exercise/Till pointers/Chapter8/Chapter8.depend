@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1696228473 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter8\main.c
+	"functions.h"
+
+1696230357 c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter8\functions.h
+	<stdio.h>
+	<stdlib.h>
+
+1695979104 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter8\sum.c
+	"functions.h"
+
+1695981372 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter8\sequence.c
+	"functions.h"
+
+1695982102 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter8\palindrome.c
+	"functions.h"
+
+1695986760 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter8\noof1.c
+	"functions.h"
+
+1695987905 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter8\pattern.c
+	"functions.h"
+
+1696052439 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter8\factorial.c
+	"functions.h"
+
+1696230309 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter8\logicalcal.c
+	"functions.h"
+

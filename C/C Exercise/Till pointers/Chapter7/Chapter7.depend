@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1695900632 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter7\bike.c
+	"functions.h"
+
+1695978183 c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter7\functions.h
+	<stdio.h>
+	<stdlib.h>
+
+1695977412 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter7\main.c
+	"functions.h"
+
+1695902977 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter7\print.c
+	"functions.h"
+
+1695967973 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter7\division.c
+	"functions.h"
+
+1695966335 c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter7\functions1.h
+	<stdio.h>
+	<stdlib.h>
+
+1695968081 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter7\maxmin.c
+	"functions.h"
+
+1695971661 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter7\distance.c
+	"functions.h"
+	<math.h>
+
+1695972435 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter7\sectohrmin.c
+
+1695977780 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter7\sectohrsec.c
+	"functions.h"
+
+1695977769 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter7\sectohrminsec.c
+	"functions.h"
+

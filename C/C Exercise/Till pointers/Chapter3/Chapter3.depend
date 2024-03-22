@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1695707805 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter3\main.c
+	"functions.h"
+
+1695703896 c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter3\functions.h
+	<stdio.h>
+	<stdlib.h>
+
+1695638684 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter3\functions.c
+	"functions.h"
+
+1695707740 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter3\swap.c
+	"functions.h"
+
+1695638684 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter3\evenodd.c
+	"functions.h"
+
+1695642951 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter3\countpositivenegative.c
+	"functions.h"
+
+1695643381 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter3\sumofodd.c
+	"functions.h"
+
+1695708614 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter3\sumofeven.c
+	"functions.h"
+
+1695645229 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter3\square.c
+	"functions.h"
+
+1695645528 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter3\divisibleby7.c
+	"functions.h"
+
+1695706461 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter3\password.c
+	"functions.h"
+

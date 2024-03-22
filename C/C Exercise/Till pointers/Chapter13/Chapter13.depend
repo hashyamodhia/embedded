@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1697619522 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter13\main.c
+	"functions1.h"
+
+1697619459 c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter13\functions1.h
+	<stdio.h>
+	<stdlib.h>
+
+1697619435 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter13\difference1.c
+	"functions1.h"
+

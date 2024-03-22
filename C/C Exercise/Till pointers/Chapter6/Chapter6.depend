@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1695807263 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter6\shfit.c
+	"functions.h"
+
+1695899505 c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter6\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1695899552 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter6\main.c
+	"functions.h"
+
+1695812932 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter6\string.c
+	"functions.h"
+	<string.h>
+
+1695878213 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter6\string_using_function.c
+	"functions.h"
+	<string.h>
+
+1695878674 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter6\str_inbuilt_functions.c
+	"functions.h"
+
+1695892242 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter6\compare.c
+	"functions.h"
+
+1695899475 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter6\sequence.c
+	"functions.h"
+

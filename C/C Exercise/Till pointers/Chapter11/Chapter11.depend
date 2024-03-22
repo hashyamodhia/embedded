@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1696592028 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter11\convert.c
+	"functions.h"
+
+1696594601 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter11\main.c
+	"functions.h"
+
+1696594668 c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter11\functions.h
+	<stdio.h>
+	<stdlib.h>
+
+1696593019 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter11\convert2.c
+	"functions.h"
+
+1696594571 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter11\convert3.c
+	"functions.h"
+

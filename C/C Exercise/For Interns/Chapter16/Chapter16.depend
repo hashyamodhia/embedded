@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1699013484 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\for interns\chapter16\write.c
+	"functions.h"
+
+1699076583 c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\for interns\chapter16\functions.h
+	<stdio.h>
+	<stdlib.h>
+
+1699077348 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\for interns\chapter16\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
+1699010386 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\for interns\chapter16\read.c
+	"functions.h"
+
+1699013877 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\for interns\chapter16\append.c
+	"functions.h"
+

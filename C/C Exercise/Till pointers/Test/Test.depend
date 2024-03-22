@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1698315395 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\till pointers\test\main.c
+	<stdio.h>
+
+1698381265 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\till pointers\test\hashya.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1696395827 source:c:\users\hashya\desktop\hashya_modhia_training\c programms\c exercise\chapter9\calender.c
+	"functions.h"
+
+1696421746 c:\users\hashya\desktop\hashya_modhia_training\c programms\c exercise\chapter9\functions.h
+	<stdio.h>
+	<stdlib.h>
+
+1696421723 source:c:\users\hashya\desktop\hashya_modhia_training\c programms\c exercise\chapter9\main.c
+	"functions.h"
+
+1696413926 source:c:\users\hashya\desktop\hashya_modhia_training\c programms\c exercise\chapter9\percentage.c
+	"functions.h"
+
+1696420826 source:c:\users\hashya\desktop\hashya_modhia_training\c programms\c exercise\chapter9\highest.c
+	"functions.h"
+
+1696479422 source:c:\users\hashya\desktop\hashya_modhia_training\c programms\c exercise\chapter9\replace.c
+	"functions.h"
+

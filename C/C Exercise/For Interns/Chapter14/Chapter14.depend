@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1698999605 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\for interns\chapter14\main.c
+	"functions.h"
+
+1699003449 c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\for interns\chapter14\functions.h
+	<stdio.h>
+	<stdlib.h>
+
+1698475098 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\for interns\chapter14\malloc.c
+	"functions.h"
+
+1698648572 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\for interns\chapter14\calloc1.c
+	"functions.h"
+
+1698472718 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\for interns\chapter14\malloc2.c
+	"functions.h"
+
+1698996149 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\for interns\chapter14\malloc3.c
+	"functions.h"
+

@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1696486329 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter10\average.c
+	"functions.h"
+
+1696586400 c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter10\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1696585772 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter10\main.c
+	"functions.h"
+
+1696487463 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter10\count.c
+	"functions.h"
+
+1696489974 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter10\gets_puts.c
+	"functions.h"
+
+1696500426 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter10\2d.c
+
+1696572734 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter10\countchar.c
+	"functions.h"
+
+1696585792 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter10\triple.c
+	"functions.h"
+
+1696587121 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter10\change.c
+	"functions.h"
+

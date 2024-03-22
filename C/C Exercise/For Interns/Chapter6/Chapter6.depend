@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1698227386 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\for interns\chapter6\main.c
+	"functions.h"
+
+1698226840 c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\for interns\chapter6\functions.h
+	<stdio.h>
+	<stdlib.h>
+

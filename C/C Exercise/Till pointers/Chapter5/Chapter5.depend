@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1695719406 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter5\cal.c
+	"functions.h"
+
+1695797978 c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter5\functions.h
+	<stdio.h>
+	<stdlib.h>
+
+1695803446 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter5\main.c
+	"functions.h"
+
+1695729477 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter5\float.c
+	"functions.h"
+
+1695798050 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter5\sequence.c
+	"functions.h"
+	<math.h>
+
+1695803400 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter5\square.c
+	"functions.h"
+

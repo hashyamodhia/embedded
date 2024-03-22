@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1698215206 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\for interns\chapter4\bitwiseoperations.c
+	"functions.h"
+
+1698215800 c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\for interns\chapter4\functions.h
+	<stdio.h>
+	<stdlib.h>
+
+1698224899 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\for interns\chapter4\main.c
+	"functions.h"
+
+1698217825 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\for interns\chapter4\printing.c
+	"functions.h"
+
+1698222674 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\for interns\chapter4\reverse.c
+	"functions.h"
+
+1698224736 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\for interns\chapter4\factorioal.c
+	"functions.h"
+
+1698224787 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\for interns\chapter4\special.c
+	"functions.h"
+

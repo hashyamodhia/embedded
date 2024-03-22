@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1697450604 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter\employee1.c
+	"functions1.h"
+
+1697451432 c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter\functions1.h
+	<stdio.h>
+	<stdlib.h>
+
+1697445655 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter\employee2.c
+	"functions1.h"
+
+1697542655 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter\main.c
+	"functions3.h"
+
+1697450559 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter\employee3.c
+	"functions1.h"
+
+1697521411 c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter\functions2.h
+	<stdio.h>
+	<stdlib.h>
+
+1697455627 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter\student1.c
+	"functions2.h"
+
+1697520208 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter\student2.c
+	"functions2.h"
+
+1697534032 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter\student3.c
+	"functions2.h"
+
+1697541953 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter\test.c
+
+1697541415 c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter\functions3.h
+	<stdio.h>
+	<stdlib.h>
+
+1697542764 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter\simpleinterest1.c
+	"functions3.h"
+

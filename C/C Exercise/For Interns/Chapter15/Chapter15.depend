@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1698482442 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\for interns\chapter15\malloc.c
+	"functions.h"
+
+1698482369 c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\for interns\chapter15\functions.h
+	<stdio.h>
+	<stdlib.h>
+

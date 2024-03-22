@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1697693586 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\for interns\chapter3\biggest.c
+	"functions.h"
+
+1697694067 c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\for interns\chapter3\functions.h
+	<stdio.h>
+	<stdlib.h>
+
+1698211353 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\for interns\chapter3\commandline.c
+
+1698213903 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\for interns\chapter3\main.c
+	"functions.h"
+
+1697695969 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\for interns\chapter3\smallest.c
+	"functions.h"
+

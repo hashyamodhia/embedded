@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1695713233 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter4\functions.c
+	"functions.h"
+
+1695724560 c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter4\functions.h
+	<stdio.h>
+	<stdlib.h>
+
+1695725378 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter4\main.c
+	"functions.h"
+
+1695725241 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter4\daystoyear.c
+	"functions.h"
+
+1695722658 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter4\maxoffive.c
+	"functions.h"
+

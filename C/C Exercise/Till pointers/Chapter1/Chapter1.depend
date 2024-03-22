@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1695632435 source:c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter1\main.c
+	"Simpleprint.h"
+
+1695632247 c:\users\surendra\desktop\hashya_modhia_training\c programms\c exercise\chapter1\simpleprint.h
+	<stdio.h>
+	<stdlib.h>
+
